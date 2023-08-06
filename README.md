@@ -4,10 +4,14 @@ This repository contains a bunch of Max for Live utility devices for Ableton Liv
 
 ## RMX Max Console
 
+<img src="images/rmx_max_console.png" height="200">
+
 Simple button to open the Max Console from Ableton Live.
 
 
 ## RMX Session Search
+
+<img src="images/rmx_session_search.png" height="200">
 
 Utility to search for clip names (and optionally file path names for audio clips) in session view. Covers a missing feature in Ableton and is particularly useful when you have hundreds of clips in your session (such as I have for my DJ sets).
 
@@ -18,5 +22,7 @@ Notes:
 
 
 ## RMX Tempo Adjust
+
+<img src="images/rmx_tempo_adjust.png" height="200">
 
 A utility to increment / decrement tempo using your keyboard or controller buttons by a given amount.
