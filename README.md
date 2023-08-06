@@ -2,6 +2,8 @@
 
 This repository contains a bunch of Max for Live utility devices for Ableton Live.
 
+You can also download these devices from https://maxforlive.com/profile/user/radar
+
 ## RMX Max Console
 
 <img src="images/rmx_max_console.png" height="200">
