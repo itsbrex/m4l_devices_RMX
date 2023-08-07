@@ -27,4 +27,4 @@ Notes:
 
 <img src="images/rmx_tempo_adjust.png" height="200">
 
-A utility to increment / decrement tempo using your keyboard or controller buttons by a given amount.
+Utility to increment / decrement tempo by a given amount, using your keyboard or controller buttons.
