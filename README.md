@@ -19,7 +19,7 @@ Utility to search for clip names (and optionally file path names for audio clips
 
 Notes:
 - For performance reasons, the utility caches all clip names when the search box is cleared. I.e. when you add / remove or rename clip, make sure you first clear the search box.
-- There doesn't seem to be an easy way to highlight a clip without showing its detail view or device chain. In order to keep the search utility focused, it only higlights the session in which the clip is located. It's a bit of a bummer, but good enough for most cases.
+- There doesn't seem to be an easy way to highlight a clip without showing its detail view or device chain. In order to keep the search utility focused, it only higlights the scene in which the clip is located. It's a bit of a bummer, but good enough for most cases.
 - For quick access to the search utility, map a key or a MIDI note/cc message to the devices title bar *and* to the "M" button. If the key/message is triggered, the device will be shown and the text field will be focused.
 
 
